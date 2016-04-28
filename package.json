@@ -1,6 +1,6 @@
 {
   "name": "set-attrs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Set multiple attributes on a DOM element.",
   "main": "index.js",
   "scripts": {
