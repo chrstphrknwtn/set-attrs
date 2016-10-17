@@ -1,7 +1,7 @@
 {
   "name": "set-attrs",
   "version": "0.0.3",
-  "description": "Set multiple attributes on a DOM element.",
+  "description": "Set attributes on DOM elements.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
